@@ -23,6 +23,7 @@ Below is a high-level overview of Modern Data Analytics Reference Architecture o
 <!-- Replace the above URL with the actual location of your AWS architecture diagram -->
 
 **Key AWS Services Used:**
+
 - AWS Lambda (Compute)
 - Amazon S3 (Storage)
 - Amazon RDS / DynamoDB (Database)
@@ -95,7 +96,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions, feedback, or support, please open an issue or contact [Kuldip Godase](mailto:your.email@example.com).
+For questions, feedback, or support, please open an issue or contact [Kuldip Godase](https://github.com/Kuldipgodase07)
 
 
 > Empower your StackOverflow insights with the agility and scale of AWS!
