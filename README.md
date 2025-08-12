@@ -17,7 +17,7 @@ StackOverflow AWS Engagement Insights Dashboard is a comprehensive analytics pla
 
 ## Architecture
 
-Below is a high-level overview of the AWS-based architecture powering this dashboard:
+Below is a high-level overview of Modern Data Analytics Reference Architecture on AWS:
 
 ![AWS Architecture Diagram](https://github.com/Kuldipgodase07/StackOverflow-AWS-Engagement-Insights-Dashboard/blob/main/aws-stackoverflow-data-insights-main/.ipynb_checkpoints/AWS%20Data%20Analytics%20Architecture%20Diagram)
 <!-- Replace the above URL with the actual location of your AWS architecture diagram -->
