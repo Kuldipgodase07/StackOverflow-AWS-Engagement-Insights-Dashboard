@@ -1,9 +1,12 @@
 # StackOverflow-AWS-Engagement-Insights-Dashboard
-Interactive Tableau dashboard uncovering AWS service engagement trends on Stack Overflow, powered by scalable PySpark workflows on EMR, Glue, and SageMaker.
 
-## Overview
-
-StackOverflow AWS Engagement Insights Dashboard is a comprehensive analytics platform designed to provide deep insights into StackOverflow user engagement, trends, and interactions, leveraging the power and scalability of AWS cloud services. This dashboard empowers developers, data scientists, and organizations to monitor, analyze, and visualize StackOverflow activity for data-driven decision-making.
+> ### Empower Insights with AWS Data Analytics
+> [![Live Demo](https://img.shields.io/badge/Live-Demo-ff9800?style=flat-square&logo=Google%20Chrome&logoColor=white)](https://skill-swap-1564d.web.app/)
+> [![GitHub Follow](https://img.shields.io/github/followers/Kuldipgodase07?label=Follow&style=social)](https://github.com/Kuldipgodase07)
+> [![LinkedIn Connect](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kuldip-godase-b2ba40297/)
+> [![Kuldip Godase](https://img.shields.io/badge/-Kuldip%20Godase-4caf50?style=flat-square)](https://www.linkedin.com/in/kuldip-godase-b2ba40297/)
+> 
+Interactive Tableau dashboard uncovering AWS service engagement trends on Stack Overflow, powered by scalable PySpark workflows on EMR, Glue, and SageMaker. Gain actionable developer insights with a robust, cloud-native analytics platform for data-driven decision-making.
 
 
 ## Features
